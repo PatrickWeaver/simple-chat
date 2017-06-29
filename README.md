@@ -1,1 +1,3 @@
-# simplechat
+Simple Chat
+==========
+
